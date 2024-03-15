@@ -28,7 +28,6 @@ function App() {
 
   return (
     <>
-      <button onClick={updateFeedback}>Good</button>
       <Description />
       <Options
         updateFeedback={updateFeedback}
