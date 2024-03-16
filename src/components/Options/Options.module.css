@@ -1,0 +1,11 @@
+.buttons {
+    margin-bottom: 10px;
+}
+
+.buttons button {
+    font-weight: 400;
+    font-size: 1.3rem;
+    margin-right: 5px;
+    border-width: 1px;
+    border-radius: 10%;
+}
